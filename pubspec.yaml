@@ -1,0 +1,137 @@
+name: atheneum_prototype
+description: A new Flutter project.
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# Read more about versioning at semver.org.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+# For information on the generic Dart part of this file, see the
+# following page: https://www.dartlang.org/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/gbooks.jpg
+    - assets/shelf.jpg
+    - assets/images_1.jpeg
+    - assets/shelf_wood_portrait_2.png
+    - assets/images_16.jpg
+    - assets/images4.jpeg
+    - assets/images5.jpeg
+    - assets/images6.jpeg
+    - assets/images7.jpeg
+    - assets/images8.jpeg
+    - assets/images9.jpeg
+    - assets/images10.jpeg
+    - assets/images11.jpeg
+    - assets/images12.jpeg
+    - assets/images_13.jpeg
+    - assets/images_14.jpeg
+    - assets/images_15.jpeg
+    - assets/images_2.jpeg
+    - assets/images_3.jpeg
+    - assets/images17.jpg
+    - assets/images18.jpg
+    - assets/images19.jpg
+    - assets/images20.jpg
+    - assets/d.png
+    - assets/Never Let me Go.jpg
+    - assets/The Bone Clocks.jpg
+    - assets/The Snow Child.jpg
+    - assets/Black Moon.jpg
+    - assets/The Graveyard Book.jpg
+    - assets/Jane Eyre.jpg
+    - assets/Pride and Prejudice .jpg
+    - assets/Romeo and Juliet .jpg
+    - assets/The Notebook .jpg
+    - assets/The Time Travelers Wife .jpg
+    - assets/The Bourne Identity .jpg
+    - assets/The Da Vinci Code.jpg
+    - assets/The Girl with the Dragon Tattoo.jpg
+    - assets/The Hobbit .jpg
+    - assets/The Hunger Games .jpg
+    - assets/And Then There Were None .jpg
+    - assets/Angels & Demons.jpg
+    - assets/In Cold Blood .jpg
+    - assets/Rebecca .jpg
+    - assets/The Godfather .jpg
+    - assets/The Communist Manifesto .jpg
+    - assets/The Complete Works .jpg
+    - assets/The Odyssey .jpg
+    - assets/The Origin of Species .jpg
+    - assets/The Republic .jpg
+    - assets/A Life in Parts.jpg
+    - assets/A Moveable Feast.jpg
+    - assets/Born Standing Up.jpg
+    - assets/Kitchen Confidential.jpg
+    - assets/The Autobiography of Malcolm X as told by Alex Haley.jpg
+    - assets/Dracula .jpg
+    - assets/Frankenstein.jpg
+    - assets/The Comeplete H P Lovecraft Collection.jpg
+    - assets/The Exorcist.jpg
+    - assets/The Turn of the Screw.jpg
+    - assets/A Double Life .jpg
+    - assets/An Unwanted Guest .jpg
+    - assets/Bring Me Back .jpg
+    - assets/Give Me Your Hand.jpg
+    - assets/The Good Son.jpg
+    - assets/HEART BERRIES.jpg
+    - assets/HIDDEN FIGURES.jpg
+    - assets/STAMPED FROM THE BEGINNING.jpg
+    - assets/THE LIARS.jpg
+    - assets/WILD SWANS.jpg
+
+
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.io/assets-and-images/#resolution-aware.
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.io/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.io/custom-fonts/#from-packages
